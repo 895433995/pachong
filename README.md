@@ -20,6 +20,8 @@ yarn
 #### 依赖说明
 
 ##### superagent
- ``22``
+
+ 22
+ 
 ##### download
 
