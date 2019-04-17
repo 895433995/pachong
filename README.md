@@ -48,5 +48,10 @@ single-line-log可以让控制台在单行输出，之后显示下载进度会�
 #### 步骤一
 
 ```
-
+设置请求头
+  let reqHeaders = {
+    'User-Agent':
+      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko)' +
+      'Chrome/73.0.3683.103 Safari/537.36'
+  }
 
