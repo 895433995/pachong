@@ -74,9 +74,12 @@ single-line-log可以让控制台在单行输出，之后显示下载进度会�
       })
       
 如下图，请求需要带一个时间戳
+```
 ![image](https://github.com/895433995/pachong/blob/master/images/step1.png)
 
-如下图，拿到set-cookie的内容，dk在res.body里
-！[image](https://github.com/895433995/pachong/blob/master/images/step11.png)
 ```
+如下图，拿到set-cookie的内容，dk在res.body里
+```
+![image](https://github.com/895433995/pachong/blob/master/images/step11.png)
+
 
