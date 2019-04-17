@@ -4,13 +4,17 @@
 
 ## 本地调试
 
-```cd src/
+```
+cd src/
 ```
 
-```node test.js
+```
+node test.js
 ```
 
 ### 安装依赖
 
-```yarn
 ```
+yarn
+```
+
