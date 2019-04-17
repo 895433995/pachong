@@ -21,9 +21,25 @@ yarn
 
 #### superagent
 
-````
- 22
-````
+```
+superagent是nodejs里一个非常方便的客户端请求代理模块
+```
  
 #### download
+
+```
+download用于之后下载地图
+```
+
+#### adm-zip
+
+```
+adm-zip用于将下载后的zip地图包解压
+```
+
+#### single-line-log
+
+```
+single-line-log可以让控制台在单行输出，之后显示下载进度会用到
+```
 
