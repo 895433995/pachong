@@ -1,0 +1,25 @@
+{
+  "name": "pachong",
+  "version": "1.0.0",
+  "description": "记一次蜂鸟地图下载（初学爬虫）（登录地址：https://www.fengmap.com/login/login.html）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/895433995/pachong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/895433995/pachong/issues"
+  },
+  "homepage": "https://github.com/895433995/pachong#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "download": "^7.1.0",
+    "single-line-log": "^1.1.2",
+    "superagent": "^5.0.2"
+  }
+}
