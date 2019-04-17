@@ -109,6 +109,7 @@ single-line-log可以让控制台在单行输出，之后显示下载进度会�
  ```
 ![image](https://github.com/895433995/pachong/blob/master/images/step21.png)
 ![image](https://github.com/895433995/pachong/blob/master/images/step22.png)
+![image](https://github.com/895433995/pachong/blob/master/images/step23.png)
 
 #### 步骤三
 
