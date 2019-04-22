@@ -19,6 +19,7 @@
   "dependencies": {
     "adm-zip": "^0.4.13",
     "download": "^7.1.0",
+    "fs-extra": "^7.0.1",
     "single-line-log": "^1.1.2",
     "superagent": "^5.0.2"
   }
